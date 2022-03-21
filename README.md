@@ -16,7 +16,7 @@ curl -LO https://burntsushi.net/stuff/worldcitiespop.csv
 
 ### smcities.csv
 
-I renamed the file here to *smcities.csv* so not to clash with the filename above.  The smcities is a much smaller file than the mega monster file above.
+I renamed the file here to *smcities.csv* so not to clash with the filename above.  The *smcities.csv* is a much smaller file than the mega monster file above.
 
 * [simplemaps](https://simplemaps.com/data/world-cities)
 * [dataset](https://github.com/stormasm/dataset/tree/main/csv)
