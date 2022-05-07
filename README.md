@@ -1,4 +1,14 @@
 
+### Links to Large Sample Datasets
+
+* https://github.com/curran/data
+* https://github.com/awesomedata/awesome-public-datasets
+* https://github.com/lerocha/chinook-database
+
+```rust
+for $i in 1..10 {random chars -l 10 } | save test.txt
+```
+
 ### shakespeare
 
 * [myrepos](https://github.com/stormasm?tab=repositories&q=shakespeare&type=&language=&sort=)
